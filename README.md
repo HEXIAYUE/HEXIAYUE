@@ -1,4 +1,11 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEXIAYUE&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/HEXIAYUE">
+    <img align="center" alt="My GitHub stats" src="https://github-readme-stats.qwerty541.vercel.app/api?username=HEXIAYUE&show_icons=true&theme=blueberry" />
+  </a>
+  <a href="https://github.com/HEXIAYUE">
+    <img align="center" alt="Top languages stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HEXIAYUE&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
+  </a>
+</div>
 
 <!--
 **HEXIAYUE/HEXIAYUE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
